@@ -1,7 +1,7 @@
 import { Stack } from '@mui/material';
 import { Link } from 'react-router-dom';
 
-import logo from '../assets/VID-LOGO.webp';
+import { logo } from '../Utils/constants';
 import SearchBar from './SearchBar';
 
 const Navbar = () =>  (
